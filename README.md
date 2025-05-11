@@ -24,7 +24,7 @@ It explores total student numbers, average school sizes, top enrolling schools, 
 
 ## Project Screenshots
 
-![Top Schools Bar Chart](./top_schools_chart.png)
+![Top Schools Bar Chart](./top_10_schools-2.png)
 
 ## How to Run
 
