@@ -29,7 +29,7 @@ It explores total student numbers, average school sizes, top enrolling schools, 
 ## How to Run
 
 1. Clone the repository
-2. Open the Jupyter notebook (`victoria_enrolments_analysis.ipynb`)
+2. Open the Jupyter notebook (`insights.ipynb`)
 3. Install libraries if missing:  
    ```bash
    pip install pandas matplotlib
